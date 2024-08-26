@@ -8,6 +8,6 @@ the shops. In the `Runner` class you can see all the options available to work w
 
 ## How to start it
 1. Clone the project on your machine
-2. In order to start the project you would need to have MySQL installed
+2. In order to start the project you need to have MySQL installed
 3. Check the configurations on your MySQL in `application.yaml`
 4. Start the project
