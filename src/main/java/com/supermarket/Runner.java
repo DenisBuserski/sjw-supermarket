@@ -40,7 +40,6 @@ public class Runner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        // TODO: Add README.md
         // TODO: Spring Database Initialization
         // TODO: Spring Add tests
 
